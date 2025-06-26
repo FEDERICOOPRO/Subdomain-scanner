@@ -2,8 +2,18 @@
 
 A Python script to analyze a list of subdomains from a CSV file. It checks their reachability (HTTP/S status), categorizes them, identifies potentially sensitive subdomains based on keywords, and supports graceful shutdown with partial results output.
 
-## ⚠️⚠️⚠️
-<mark>Use Responsibly: This tool is provided for educational and legitimate security testing purposes only, where proper authorization has been obtained. The user assumes all responsibility for the use of this script. Misuse of this script for unauthorized activities is strictly prohibited</mark>
+## ⚠️⚠️⚠️ **Use Responsibly**
+
+This tool is provided strictly for **educational purposes** and **authorized security testing** only.  
+Do **not** use this script on targets for which you do not have **explicit permission**.
+
+By using this tool, you acknowledge that:
+- You are solely responsible for how it is used.
+- Any **unauthorized scanning** or misuse may be **illegal** and is **strictly prohibited**.
+- The author assumes **no liability** for damage or legal consequences resulting from its use.
+
+Use it wisely, ethically, and within the bounds of the law.
+
 ## ⚠️⚠️⚠️
 
 ## Description
