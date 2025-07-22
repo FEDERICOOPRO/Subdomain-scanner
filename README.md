@@ -13,6 +13,9 @@ By using this tool, you acknowledge that:
 - The author assumes **no liability** for damage or legal consequences resulting from its use.
 
 Use it wisely, ethically, and within the bounds of the law.
+# This file is part of HexFud Project
+# Copyright (c) 2025 HexFud
+# Released under the MIT License
 
 ## ⚠️⚠️⚠️
 
