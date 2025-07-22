@@ -396,3 +396,8 @@ if __name__ == "__main__":
     main(args.csv_file, args.output)
 
     logging.info("Script finished.")
+
+# This file is part of HexFud Project
+# Copyright (c) 2025 HexFud
+# Released under the MIT License
+
