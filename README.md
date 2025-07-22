@@ -1,6 +1,22 @@
 # Python Subdomain Analyzer Script
 
-A Python script to analyze a list of subdomains from a CSV file. It checks their reachability (HTTP/S status), categorizes them, identifies potentially sensitive subdomains based on keywords, and supports graceful shutdown with partial results output.
+A Python script to analyze a list of subdomains from a CSV file. It checks their reachability (HTTP/S status), categorizes them, identifies potentially sensitive subdomains based on keywords, and supports graceful shutdown with partial results output. 
+
+### ⚠️ Disclaimer
+
+This tool is provided **"as is"** without any guarantees that it works perfectly.
+
+- I do **not guarantee** that the tool is fully functional or bug-free.
+- I take **no responsibility** for any damage, data loss, or misuse caused by this tool.
+- I am **not involved or liable** in any way for how others choose to use it.
+
+Use it **at your own risk**, and only on systems you own or have explicit permission to test.
+
+---
+
+### ⚠️ Important Considerations & Legal Notice ⚠️
+
+**Authorization Required**: DO NOT run this script against any target domains or subdomains without explicit, written permission from the owner of the systems. Unauthorized scanning is illegal and unethical in most jurisdictions
 
 ## ⚠️⚠️⚠️ **Use Responsibly**
 
